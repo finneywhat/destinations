@@ -1,3 +1,12 @@
 #show-place {
   display: none;
 }
+
+.clickable {
+  cursor: pointer;
+  color: green;
+}
+
+.clickable:hover {
+  text-decoration: line-through;
+}
